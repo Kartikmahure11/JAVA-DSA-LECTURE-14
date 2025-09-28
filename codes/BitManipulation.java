@@ -1,5 +1,5 @@
  public class BitManipulation {
-        static void main(String[] args) {
+ public static void main(String[] args) {
         printBits(67);
         printOddEven(54);
         int res1 = setIthBit(32,4);
