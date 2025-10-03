@@ -1,4 +1,4 @@
- public class BitManipulation {
+  class BitManipulation {
  public static void main(String[] args) {
         printBits(67);
         printOddEven(54);
